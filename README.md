@@ -31,6 +31,8 @@ Hourly wages are constructed from reported earnings and hours worked. Housing ma
 ## Interpretation
 Despite the cyclical nature of construction demand, hourly wages remain relatively stable. This suggests that labor supply adjustments - such as entry of new workers during booms - may dampen wage growth, even in strong housing markets.
 
+**Final presentation:** See `capstone_presentation.pdf` for a summary of results and interpretation.
+
 ## How to Run the Project
 1. Open `CAPSTONE_FINAL.Rproj` in RStudio.
 2. Ensure required packages are installed (see `01_load_packages.R`).
